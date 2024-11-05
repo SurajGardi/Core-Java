@@ -3,7 +3,7 @@ package core_java;
 import java.util.Scanner;
 
 public class If_Else_Ladder {
-
+     
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 

@@ -10,7 +10,7 @@ public class Array {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int[] a= {10,20,30,40};
+		int[][] a= {{10,20,30},{40,50,60}};
 //		int [] a=new int[6];
 //		a[0]=10;
 //		a[1]=20;

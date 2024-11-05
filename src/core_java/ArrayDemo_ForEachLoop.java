@@ -21,10 +21,10 @@ public class ArrayDemo_ForEachLoop {
 		//for(datatype variablename : array name/collection name){
 		//	ststement;
 		//}
-		System.out.println(a[0]+ " "+a[1]+" "+" "+a[2]);
-//		for(int i:a) {
-//			System.out.println(i);
-//	}
+		//System.out.println(a[0]+ " "+a[1]+" "+" "+a[2]);
+		for(int i:a) {
+			System.out.println(i);
+	}
 
 	}	
 }

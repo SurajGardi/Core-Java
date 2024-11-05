@@ -1,4 +1,4 @@
-gpackage core_java;
+package core_java;
 
 // OBJECT ==> 
 
@@ -18,9 +18,9 @@ public class OOPSClassObjectDemo {//Take as Animal Class
 
 		System.out.println("Hello..!");
 		
-		//Now we have to call abobe method by creating an Object..
+		//Now we have to call above method by creating an Object..
 		//Syntax for creating OBJECT..
-		//classname objectname = new classname();
+		//className objectName = new className();
 		
 		System.out.println("Object for DOG.");
 		OOPSClassObjectDemo dog=new OOPSClassObjectDemo();
